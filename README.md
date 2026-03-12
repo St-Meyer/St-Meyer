@@ -2,7 +2,7 @@
 
 - 🔭 **Aktuell:** Lerne täglich FastAPI und App-Entwicklung mit Flutter.
 - 💻 **Skills:** Python, Java, Go, REST-APIs, SQL
-- 🎯 **Ziele:** App-Entwicklung, Web-Entwicklung und solide Praxiserfahrungen aufbauen
+- 🎯 **Ziele:** Kenntnisse von Software-Entwicklung in Front- und Backend ausbauen und solide Praxiserfahrungen sammeln
 - 📚 **Ausbildung:** Abschluss 2026 - Fachinformatiker für Anwendungsentwicklung
 - 💼 **Arbeit:** Gerade auf Arbeitssuche auf Junior Level
   
