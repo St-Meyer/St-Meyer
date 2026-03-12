@@ -11,6 +11,11 @@
 - [Password-Generator](https://github.com/St-Meyer/Password-Generator) – Passwort Generator in Java, erste Programmiererfahrungen sammeln.
 - [Metal - Morse Translater](https://github.com/St-Meyer/Metal-Morse-Translater) - Morse Übersetzer in Python, erste Programmiererfahrungen sammeln.
 
+## Aktuelles Projekt
+- **Raspberry Pi - NAS App-Interface:** Ein App-Interface auf Flutter-Basis, um NAS Grunddaten anzuzeigen, allgemeine Steuerung des NAS und Push Benachrichtigungen
+  zu bekommen. Sowie die Speicherung von Logs und Konfigurationen in eine Datenbank.
+  Repository ist noch privat gestellt, bis erster brauchbarer Code entstanden ist.
+  Zur Zeit werden die Technologien noch angeeignet.
 
 <!---
 St-Meyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
