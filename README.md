@@ -5,7 +5,7 @@
 - 🎯 **Ziele:** App-Entwicklung, Web-Entwicklung und solide Praxiserfahrungen aufbauen
 - 📚 **Ausbildung:** Abschluss 2026 - Fachinformatiker für Anwendungsentwicklung
 - 💼 **Arbeit:** Gerade auf Arbeitssuche auf Junior Level
-- 
+  
 ## Meine Projekte
 - [Abschlussprojekt - Umschulung: bmctl](https://github.com/St-Meyer/bmctl) – Benutzer- und Maschinenverwaltung für Baremetal As A Service der Uni Hannover.
 - [Password-Generator](https://github.com/St-Meyer/Password-Generator) – Passwort Generator in Java, erste Programmiererfahrungen sammeln.
