@@ -4,7 +4,7 @@
 - 💻 **Skills:** Python, Java, Go, REST-APIs, SQL
 - 🎯 **Ziele:** Kenntnisse von Software-Entwicklung in Front- und Backend ausbauen und solide Praxiserfahrungen sammeln
 - 📚 **Ausbildung:** Abschluss 2026 - Fachinformatiker für Anwendungsentwicklung
-- 💼 **Arbeit:** Gerade auf Arbeitssuche auf Junior Level
+- 💼 **Arbeit:** Gerade auf Arbeitssuche als Softwareentwickler auf Junior Level
   
 ## Meine Projekte
 - [Abschlussprojekt - Umschulung: bmctl](https://github.com/St-Meyer/bmctl) – Benutzer- und Maschinenverwaltung für Baremetal As A Service der Uni Hannover.
