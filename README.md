@@ -1,21 +1,26 @@
-# Hallo, ich bin Steffen! 👋
+# Hi, ich bin Steffen! 👋
 
-- 🔭 **Aktuell:** Lerne täglich FastAPI und App-Entwicklung mit Flutter.
-- 💻 **Skills:** Python, Java, Go, REST-APIs, SQL
-- 🎯 **Ziele:** Kenntnisse von Software-Entwicklung in Front- und Backend ausbauen und solide Praxiserfahrungen sammeln
-- 📚 **Ausbildung:** Abschluss 2026 - Fachinformatiker für Anwendungsentwicklung
-- 💼 **Arbeit:** Gerade auf Arbeitssuche als Softwareentwickler auf Junior Level
-  
-## Meine Projekte
-- [Abschlussprojekt - Umschulung: bmctl](https://github.com/St-Meyer/bmctl) – Benutzer- und Maschinenverwaltung für Baremetal As A Service der Uni Hannover.
-- [Password-Generator](https://github.com/St-Meyer/Password-Generator) – Passwort Generator in Java, erste Programmiererfahrungen gesammelt.
-- [Metal - Morse Translater](https://github.com/St-Meyer/Metal-Morse-Translater) - Morse Übersetzer in Python, erste Programmiererfahrungen gesammelt.
+Fachinformatiker für Anwendungsentwicklung mit praktischer Erfahrung 
+aus einem 9-monatigen Praktikum an der Informatik-Fakultät der 
+Leibniz Universität Hannover. Fokus auf Backend- und App-Entwicklung.
 
-## Aktuelles Projekt
-- **Raspberry Pi - NAS App-Interface:** Ein App-Interface auf Flutter-Basis, um NAS Grunddaten anzuzeigen, allgemeine Steuerung des NAS und Push Benachrichtigungen
-  zu bekommen. Sowie die Speicherung von Logs und Konfigurationen in eine Datenbank.
-  Repository ist noch privat gestellt, bis erster brauchbarer Code entstanden ist.
-  Zur Zeit werden die Technologien noch angeeignet.
+## 💻 Skills
+Python · Java · Go · C# · FastAPI · Flutter · REST-APIs · SQL
+
+## 🔭 Aktuelles Projekt
+**NAS App-Interface** – Flutter-App mit FastAPI-Backend zur 
+Verwaltung und Überwachung eines Raspberry-Pi-Heimservers. Push-Benachrichtigungen, 
+Logging, SQLite-Datenbank.
+
+## 📂 Projekte
+- [bmctl](https://github.com/St-Meyer/bmctl) – CLI-Tool in Go für 
+  Baremetal-as-a-Service Verwaltung. Entwickelt im Rahmen des 
+  Praktikums an der Leibniz Universität Hannover.
+- [Password-Generator](https://github.com/St-Meyer/Password-Generator) – Java
+- [Metal-Morse-Translator](https://github.com/St-Meyer/Metal-Morse-Translater) – Python
+
+## 📫 Kontakt
+[LinkedIn](https://www.linkedin.com/in/steffen-meyer-131403253/)
 
 <!---
 St-Meyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
