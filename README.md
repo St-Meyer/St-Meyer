@@ -7,10 +7,12 @@ Leibniz Universität Hannover. Fokus auf Backend- und App-Entwicklung.
 ## 💻 Skills
 Python · Java · Go · C# · FastAPI · Flutter · REST-APIs · SQL
 
-## 🔭 Aktuelles Projekt
+## 🔭 Aktuelle Projekte
 [**NAS App-Interface**](https://github.com/St-Meyer/Flutter---SBC-NAS-Interface) – Flutter-App mit FastAPI-Backend zur 
 Verwaltung und Überwachung eines Raspberry-Pi-Heimservers. Push-Benachrichtigungen, 
 Logging, SQLite-Datenbank.
+[**PRJKT Resonanz**](https://github.com/St-Meyer/prjkt-resonanz) - 2D Hack'n'Slash Game, entwickelt in Godot Engine
+mit C#/.NET. Langzeit Projekt, als kreativer Ausgleich und um C#-Wissen zu festigen.
 
 ## 📂 Projekte
 - [bmctl](https://github.com/St-Meyer/bmctl) – CLI-Tool in Go für 
