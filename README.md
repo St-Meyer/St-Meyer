@@ -13,7 +13,7 @@ Verwaltung und Überwachung eines Raspberry-Pi-Heimservers. Push-Benachrichtigun
 Logging, SQLite-Datenbank.
 
 [**PRJKT Resonanz**](https://github.com/St-Meyer/prjkt-resonanz) - 2D Hack'n'Slash Game, entwickelt in Godot Engine
-mit C#/.NET. Langzeit Projekt, als kreativer Ausgleich und um C#-Wissen zu festigen. (Noch privat geschaltet)
+mit C#/.NET. Langzeit Projekt, als kreativer Ausgleich und um C#-Wissen zu festigen.
 
 ## 📂 Projekte
 - [bmctl](https://github.com/St-Meyer/bmctl) – CLI-Tool in Go für 
